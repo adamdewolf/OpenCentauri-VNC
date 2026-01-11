@@ -178,6 +178,8 @@ Design discussion, code review, documentation, and build strategy were aided by 
 
 ---
 
+Thanks to the team at [OpenCentauri](https://github.com/OpenCentauri/) for building an alternative firmware for the Elegoo Centauri Carbon — and especially for including SSH support. Having reliable SSH access turns the device from a sealed appliance into something you can actually work with: inspect, debug, automate, and build tools like this without invasive hardware mods. Your work makes real experimentation possible while keeping the platform approachable for the community.
+
 ## License
 
 **MIT License**
